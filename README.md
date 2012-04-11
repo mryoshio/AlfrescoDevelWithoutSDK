@@ -1,0 +1,8 @@
+AlfrescoDevelWithoutSDK
+=============
+
+Lisence
+------------
+MIT LISENCE
+
+
