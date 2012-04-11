@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Hello Java</shortname>
+  <description>Simple Java webscript to print Hello (Maven)</description>
+  <url>/tachibanakikaku/hello_maven</url>
+  <format default="html">extension</format>
+  <authentication>user</authentication>
+</webscript>
